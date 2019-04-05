@@ -1,0 +1,56 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 300000
+Files info:
+Site URL = http://mp.test
+Data file = D:\public_html\wpdemo\MP_Project/wp-content/themes/win/includes/demo/demo-content/content.xml
+Widget file = D:\public_html\wpdemo\MP_Project/wp-content/themes/win/includes/demo/demo-content/widget.wie
+Customizer file = D:\public_html\wpdemo\MP_Project/wp-content/themes/win/includes/demo/demo-content/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Home Page Widget Area : 
+
+Winsome: About Us - About Us - Widget already exists
+Winsome: CTA - Welcome to Winsome - Widget already exists
+Winsome: Services - Our Services - Widget already exists
+Winsome: Facts - No Title - Widget already exists
+PT: Our Team - Our Team - Widget already exists
+Winsome: Features - What Else We Provide - Widget already exists
+PT: Portfolio - Portfolio - Widget already exists
+PT: Testimonials - Testimonials - Widget already exists
+Winsome: Latest News - Latest From Blog - Widget already exists
+PT: Clients - No Title - Widget already exists
+Winsome: Contact - Contact Us - Widget already exists
+
+Footer 1 : 
+
+Search - Search Here - Widget already exists
+
+Footer 2 : 
+
+Text - Get In Touch - Widget already exists
+
+Footer 3 : 
+
+Text - About Us - Widget already exists
+Winsome: Social - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+

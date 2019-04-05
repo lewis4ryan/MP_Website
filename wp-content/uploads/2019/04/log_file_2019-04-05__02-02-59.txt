@@ -1,0 +1,80 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://mp
+Data file = D:\Management Partners\Project\MP_Project/wp-content/themes/win/includes/demo/demo-content/content.xml
+Widget file = D:\Management Partners\Project\MP_Project/wp-content/themes/win/includes/demo/demo-content/widget.wie
+Customizer file = D:\Management Partners\Project\MP_Project/wp-content/themes/win/includes/demo/demo-content/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Home Page Widget Area : 
+
+Winsome: About Us - About Us - Imported
+Winsome: CTA - Welcome to Winsome - Imported
+Winsome: Services - Our Services - Imported
+Winsome: Facts - No Title - Imported
+PT: Our Team - Our Team - Imported
+Winsome: Features - What Else We Provide - Imported
+PT: Portfolio - Portfolio - Imported
+PT: Testimonials - Testimonials - Imported
+Winsome: Latest News - Latest From Blog - Imported
+PT: Clients - No Title - Imported
+Winsome: Contact - Contact Us - Imported
+
+Footer 1 : 
+
+Search - Search Here - Imported
+
+Footer 2 : 
+
+Text - Get In Touch - Imported
+
+Footer 3 : 
+
+Text - About Us - Imported
+Winsome: Social - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+
